@@ -4,7 +4,6 @@
 #
 %define		pdir	JSON
 %define		pnam	RPC
-%include	/usr/lib/rpm/macros.perl
 Summary:	JSON::RPC - JSON RPC 2.0 Server Implementation
 #Summary(pl.UTF-8):	
 Name:		perl-JSON-RPC
